@@ -5,7 +5,7 @@
 	<title></title>
 </head>
 <body>
-	version1
+	version2
 </body>
 </html>
 
